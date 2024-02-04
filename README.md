@@ -1,15 +1,17 @@
 <div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Greeting_logo.png?20220616084046" align="center" style="width: 100%" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Greeting_logo.png?20220616084046" align="center" style="width: 80%" />
 </div>   
   
 
 ### <div align="center">I'm Arthur, a beginner Python developer 👨‍💻</div>  
+
+[![codewars](https://www.codewars.com/users/z_a_i/badges/small)](https://www.codewars.com/users/z_a_i) 
   
 
 - 🔭 I’m currently working on [tantra-massage.pro](https://tantra-massage.pro/)  
   
 
-- 🌱 I’m currently learning learning Python and other backend development technologies  
+- 🌱 I’m currently learning Python and other backend development technologies  
   
 
 <br/>  
