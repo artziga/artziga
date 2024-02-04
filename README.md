@@ -52,7 +52,7 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://t.me/z_a_i77" target="_blank">
-<img src=https://img.shields.io/badge/telegram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 <a href="https://instagram.com/z_a_ika" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
@@ -63,13 +63,9 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=artziga&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
 <br/>  
 
 
-## Recent Blog Posts  
   
 
 <br/>  
