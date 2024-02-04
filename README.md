@@ -3,9 +3,10 @@
 
 [![codewars](https://www.codewars.com/users/z_a_i/badges/small)](https://www.codewars.com/users/z_a_i)
 
-🌱 I’m currently learning python, web, backend
+🌱 Начинающий web разработчик.
 
-📫 How to reach me [@Z_A_I](https://t.me/z_a_i77)
+📫 Как со мной связаться [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/z_a_i77) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:artziga77@gmail.com)
+
 
 🌍 I speak Russian (native)
 
@@ -25,4 +26,4 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serkuksov&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artziga&layout=compact)
