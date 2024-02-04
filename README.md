@@ -13,7 +13,10 @@
 
 ### Добро пожаловать!  
 Я начинающий Python разработчик.  
+
+<p>
 [![codewars](https://www.codewars.com/users/z_a_i/badges/small)](https://www.codewars.com/users/z_a_i)
+</p>
   
 
 <br/>  
