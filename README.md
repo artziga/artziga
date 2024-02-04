@@ -1,11 +1,11 @@
 # Hi there, I'm Artur!
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0A222C&random=false&width=435&lines=Python+Backend+Developer)](https://git.io/typing-svg)
 
-[![codewars](https://www.codewars.com/users/serkuksov/badges/small)]([https://www.codewars.com/users/serkuksov](https://www.codewars.com/users/z_a_i))   ur
+[![codewars](https://www.codewars.com/users/z_a_i/badges/small)](https://www.codewars.com/users/z_a_i)
 
 🌱 I’m currently learning python, web, backend
 
-📫 How to reach me [@kuksov_sergei](https://t.me/z_a_i77)
+📫 How to reach me [@Z_A_I](https://t.me/z_a_i77)
 
 🌍 I speak Russian (native)
 
